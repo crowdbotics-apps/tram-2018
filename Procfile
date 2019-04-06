@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT tram_2018.wsgi:application
